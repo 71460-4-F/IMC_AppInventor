@@ -1,4 +1,5 @@
 # IMC_AppInventor
+[![Visits Badge](https://badges.pufler.dev/visits/71460-4-F/IMC_AppInventor)](https://badges.pufler.dev)
 
 ## site: http://www.appinventor.org
 
